@@ -1,12 +1,12 @@
 {
   "name": "com.sbaier.appquit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Unity Application Quit",
   "description": "Unity application quit implementation",
   "unity": "2021.2",
   "unityRelease": "",
   "documentationUrl": "https://github.com/BlackLambert/unity-app-quit",
-  "changelogUrl": "https://github.com/BlackLambert/unity-app-quit/releases/tag/v1.0.0",
+  "changelogUrl": "https://github.com/BlackLambert/unity-app-quit/releases/tag/v1.0.1",
   "licensesUrl": "",
   "dependencies": {
     "nuget.moq": "2.0.0",
